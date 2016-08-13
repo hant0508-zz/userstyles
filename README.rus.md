@@ -38,6 +38,11 @@ Firefox, Thunderbird и SeaMonkey.
 
 **Установить на [Userstyles](https://userstyles.org/styles/129009/yandex-uefa-euro-2016-noads)**
 
+### Yandex RIO 2016 NoAds 
+Удаляет рекламный баннер со страниц Яндекса Олимпийские игры в Рио 2016.
+
+**Установить на [Userstyles](https://userstyles.org/styles/131349/yandex-rio-2016-noads)**
+
 ### Font4you skip delay 
 Пропускает минутную задержку перед загрузкой шрифта.
 
