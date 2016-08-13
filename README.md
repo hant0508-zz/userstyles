@@ -38,6 +38,11 @@ Removes ad banner from Yandex Euro 2016 pages and resizes header and footer.
 
 **Install on [Userstyles](https://userstyles.org/styles/129009/yandex-uefa-euro-2016-noads)**
 
+### Yandex RIO 2016 NoAds 
+Removes ad banner from Yandex Olympic Games in Rio 2016.
+
+**Install on [Userstyles](https://userstyles.org/styles/131349/yandex-rio-2016-noads)**
+
 ### Font4you skip delay 
 Skips one minute delay before font download.
 
