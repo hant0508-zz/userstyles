@@ -36,7 +36,7 @@ Firefox, Thunderbird и SeaMonkey.
 ### Yandex UEFA Euro 2016 NoAds
 Удаляет рекламный баннер со страниц Яндекса Евро 2016 и меняет размер хэдера и футера.
 
-**Установить на [Userstyles](https://userstyles.org/styles/124333/redkassa-clean-background)**
+**Установить на [Userstyles](https://userstyles.org/styles/129009/yandex-uefa-euro-2016-noads)**
 
 ### Font4you skip delay 
 Пропускает минутную задержку перед загрузкой шрифта.
