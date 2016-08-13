@@ -36,7 +36,7 @@ Removes ad images from buttons on N+1 and resizes them.
 ### Yandex UEFA Euro 2016 NoAds
 Removes ad banner from Yandex Euro 2016 pages and resizes header and footer.
 
-**Install on [Userstyles](https://userstyles.org/styles/124333/redkassa-clean-background)**
+**Install on [Userstyles](https://userstyles.org/styles/129009/yandex-uefa-euro-2016-noads)**
 
 ### Font4you skip delay 
 Skips one minute delay before font download.
